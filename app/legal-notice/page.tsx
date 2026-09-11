@@ -50,7 +50,7 @@ export default function LegalNoticePage() {
                                         Professional Activity and Regulatory Disclaimer
                                     </h2>
                                     <p>
-                                        The website senecai.eu provides information regarding consulting services for compliance with the EU AI Act and other relevant EU regulations. The services provided by SenecAI Compliance S.R.L. are business and technical consulting in nature and do not constitute legal assistance or legal representation.
+                                        The website senecai.eu provides information regarding consulting services for compliance with the EU AI Act and other relevant EU regulations. The services provided by SenecAI Compliance S.R.L. combine regulatory analysis, legal interpretation of applicable EU frameworks, and technical compliance consulting, delivered as business advisory services. These services do not include representation before courts, public authorities, or regulatory bodies.
                                     </p>
                                 </div>
 
