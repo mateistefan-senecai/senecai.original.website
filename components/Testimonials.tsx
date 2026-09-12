@@ -12,6 +12,11 @@ const testimonials = [
         name: 'Bogdan Iasinovschi & Matei Oprea',
         role: 'co-founders of DevNights - AI developers community',
     },
+    {
+        quote: 'Before launching WebHunt.io we needed a data-protection opinion we could actually build on. SenecAI delivered it in days: precise, honest about the limits, and written for founders, not for lawyers. We shipped with confidence and we still follow that memo.',
+        name: 'Leo Dumitru',
+        role: 'Founder, WebHunt.io',
+    },
 ];
 
 export default function Testimonials() {
@@ -32,7 +37,7 @@ export default function Testimonials() {
                 </RevealAnimation>
 
                 {/* Testimonial Cards */}
-                <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {testimonials.map((item, index) => (
                         <RevealAnimation key={item.name} delay={index * 0.15} direction="up">
                             <div className="group relative h-full bg-white border-2 border-gray-200 rounded-3xl p-8 md:p-10 hover:border-primary-500 hover:shadow-xl transition-all duration-300 flex flex-col">
