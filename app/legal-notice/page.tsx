@@ -21,20 +21,20 @@ export default function LegalNoticePage() {
                                 <div>
                                     <p className="mb-4">This website is operated by:</p>
                                     <p className="font-semibold text-gray-900 mb-3">
-                                        SenecAI Compliance S.R.L.
+                                        Ștefan L.M. Matei PFA, sole proprietorship
                                     </p>
                                     <ul className="space-y-2 list-none">
                                         <li>
-                                            <span className="font-semibold text-gray-900">Registered office:</span> Str. Răscoala 1907, nr. 8, bl. 13, sc. 1, et. 2, ap. 15, Sector 2, București, Romania
+                                            <span className="font-semibold text-gray-900">Registered office:</span> Str. Răscoala 1907, nr. 8, bl. 13, et. 2, ap. 15, Romania
                                         </li>
                                         <li>
-                                            <span className="font-semibold text-gray-900">ONRC Registration number:</span> J2026048407007
+                                            <span className="font-semibold text-gray-900">ONRC Registration number:</span> F2026019023005
                                         </li>
                                         <li>
-                                            <span className="font-semibold text-gray-900">Tax Identification Number (CUI):</span> 55377157
+                                            <span className="font-semibold text-gray-900">Tax Identification Number (CUI):</span> 54448640
                                         </li>
                                         <li>
-                                            <span className="font-semibold text-gray-900">European Unique Identifier (EUID):</span> ROONRC.J2026048407007
+                                            <span className="font-semibold text-gray-900">European Unique Identifier (EUID):</span> ROONRC.F2026019023005
                                         </li>
                                         <li>
                                             <span className="font-semibold text-gray-900">Email:</span>{' '}
@@ -50,7 +50,7 @@ export default function LegalNoticePage() {
                                         Professional Activity and Regulatory Disclaimer
                                     </h2>
                                     <p>
-                                        The website senecai.eu provides information regarding consulting services for compliance with the EU AI Act and other relevant EU regulations. The services provided by SenecAI Compliance S.R.L. are business and technical consulting in nature and do not constitute legal assistance or legal representation.
+                                        The website senecai.eu provides information regarding consulting services for compliance with the EU AI Act. Ștefan L.M. Matei PFA is not a law firm and does not provide legal services. The services provided are strictly business and technical consulting in nature and do not constitute legal assistance, legal representation, or any other professional services reserved for members of the Romanian Bar (Uniunea Națională a Barourilor din România) under Law no. 51/1995 for the organization and exercise of the profession of lawyer.
                                     </p>
                                 </div>
 
@@ -59,7 +59,7 @@ export default function LegalNoticePage() {
                                         Disclaimer Regarding Interactive Tools
                                     </h2>
                                     <p>
-                                        Any simulations or results obtained through the assessment tools (decision trees) available on this website are purely for informational purposes. SenecAI Compliance S.R.L. assumes no liability for any actions taken by users based exclusively on the results of these tools without dedicated professional advice
+                                        Any simulations or results obtained through the assessment tools (decision trees) available on this website are purely for informational purposes. Ștefan L.M. Matei PFA assumes no liability for any actions taken by users based exclusively on the results of these tools without dedicated professional advice
                                     </p>
                                 </div>
 
